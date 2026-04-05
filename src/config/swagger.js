@@ -26,7 +26,7 @@ Obtain a token via \`POST /api/auth/login\` or \`POST /api/auth/register\`.
   },
   servers: [
     { url: 'http://localhost:3000', description: 'Local development' },
-    { url: 'https://your-app.railway.app', description: 'Production (update after deploy)' },
+    { url: 'https://zorvyn-assessment-production-1210.up.railway.app', description: 'Production' },
   ],
   tags: [
     { name: 'Auth', description: 'Register and login — no token required' },

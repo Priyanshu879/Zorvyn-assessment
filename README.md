@@ -7,13 +7,11 @@ A production-structured REST API for financial data management, built with Node.
 
 ## Live Demo
 
-> After deployment, update these links and include them in your submission email.
-
 | Resource | URL |
 |----------|-----|
-| Interactive API Docs (Swagger UI) | `https://your-app.railway.app/api-docs` |
-| Raw OpenAPI Spec (Postman import) | `https://your-app.railway.app/api-docs.json` |
-| Health Check | `https://your-app.railway.app/health` |
+| Interactive API Docs (Swagger UI) | https://zorvyn-assessment-production-1210.up.railway.app/api-docs |
+| Raw OpenAPI Spec (Postman import) | https://zorvyn-assessment-production-1210.up.railway.app/api-docs.json |
+| Health Check | https://zorvyn-assessment-production-1210.up.railway.app/health |
 
 **Demo credentials:**
 ```
@@ -400,8 +398,8 @@ Tests:       27 passed, 27 total
    | `PORT` | `3000` |
    | `NODE_ENV` | `production` |
 
-4. Railway auto-deploys. Live URL: `https://your-app.railway.app`
-5. Swagger docs: `https://your-app.railway.app/api-docs`
+4. Railway auto-deploys. Live URL: `https://zorvyn-assessment-production-1210.up.railway.app`
+5. Swagger docs: `https://zorvyn-assessment-production-1210.up.railway.app/api-docs`
 
 ### Step 3 — Seed production data
 
